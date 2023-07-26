@@ -60,4 +60,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: Thoughtful/taski_backend:latest
+          tags: thoughtful/taski_backend:latest
